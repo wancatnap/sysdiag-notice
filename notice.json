@@ -3,10 +3,10 @@
   "enabled": true,
   "level": "info",
   "title": "11 月更新",
-  "message": "新增「重复文件」：按内容比对找重复，只删到回收站；新增「内存」窗口：待机缓存、进程占用排行、清理待机列表。任务管理器里的程序名与图标已统一为「破烂优化」；修掉挂机监控与显示器配色两处控件溢出。",
+  "message": "破烂优化--优化系统和游戏。一切数据来自网络，有对应警告",
   "url": "https://github.com/wancatnap/sysdiag-notice",
   "urlText": "查看详情",
   "expires": "2027-06-01T00:00:00Z",
-  "signedAt": "2026-11-08T06:02:50Z",
-  "signature": "vTr6YXGPvmix5ECogtzHVZFvBt6NcgvCjcujAgnSUt4ntwU6X8a3hTmBIYg15j2XmR6zZ0IXeEjlU1cu5cJyvw=="
+  "signedAt": "2026-11-08T06:05:53Z",
+  "signature": "S6YPasg25G+S/Bxix/ddJ+leyABg6QCVPH4WL5r/wt39kkwaOacicQ4fpoWItiwQZj1h70xzzMkrN+E/RdcCqg=="
 }
